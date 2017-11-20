@@ -50,8 +50,6 @@ opacity:0.8;
   background-color: white;
   padding: 8px;
   font-size: 20px;
-  /*opacity: 0.5;*/
-  /*border-radius: 5px;*/
   left: 1210px;
 }
 .info {
@@ -59,37 +57,28 @@ opacity:0.8;
     display: inline-block;
     top: 80px;
     width: 800px;
-    outline: 1px solid red;
     color: white;
-
 }
-
-
 .info span {
-  position: relative;
+    position: relative;
     display: inline-block;
-    /*background-color: white;*/
     padding: 4px;
     font-size: 20px;
-    /*opacity: 0.5;*/
     border-radius: 8px;
     left: 250px;
     margin-left: 50px;
     bottom: 30px;
 }
 .menu a{
-  position: absolute;
+    position: absolute;
     display: inline-block;
     font-size: 20px;
-
-
-    /*left: 370px;*/
     margin-left: 1210px;
-  margin-top: 5%;
+    margin-top: 5%;
     text-decoration: none;
     width: 180px;
     height: 20px;
-color: white;
+    color: white;
 }
 .button{
   display: inline-block;

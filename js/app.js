@@ -1,12 +1,11 @@
-function App() {
-  this.list = [];
-  this.newList = function() {
+window.addEventListener('load', function() {
 
-    //Solicita información
-
-
-    var list = new List(name,isPrivate,starred);
-    this.lists.push(list);
-
-    return list;
-  }
+  var list = document.getElementById('list');
+  var windows = document.getElementById('windows');
+  div.addEventListener('click', function() {
+    var alert = windows.textContent;
+    div.classList.add('none');
+    var newWindows = document. createElement('windows');
+    sectionDivs.appendChild(newWindows);
+  });
+});
